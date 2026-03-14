@@ -22,14 +22,3 @@
 
 [**'AI is great at mediocrity'**](https://medium.com/@mattjakob/ai-is-great-at-mediocrity-and-the-difference-between-designing-and-building-86587cb5ecad)<br/>
 <sub>What LLMs are actually optimizing for, and why that's a feature</sub>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mattjakob&bg_color=00000000&color=aaa&line=fff&point=888&area=true&area_color=333333&hide_border=true&height=350&custom_title=Contributions">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mattjakob&bg_color=00000000&color=555&line=000&point=999&area=true&area_color=e5e5e5&hide_border=true&height=350&custom_title=Contributions" width="98%" alt="Activity Graph" />
-</picture>
-
-</div>
