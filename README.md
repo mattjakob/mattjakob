@@ -15,32 +15,33 @@
 
 ---
 
-### Projects
+### Recent Repositories
 
-| | |
-|---|---|
-| [**Vector Works**](https://tools.mattjakob.com/vectorworks) | Generative drawings for pen plotters |
-| [**MIDI Controller**](https://github.com/mattjakob/jkbMIDI_01) | Ableton Push 3 as a visual instrument |
-| [**Font Maker**](https://tools.mattjakob.com/fontmaker) | Handwriting to digital typeface |
-| [**ASCII Pager**](https://tools.mattjakob.com) | ESP32-S3 AMOLED message display |
-| [**Furby News**](https://tools.mattjakob.com) | 1998 Furbys hacked to read the news |
-| [**ASCII Pager Web**](https://tools.mattjakob.com/porkypager) | Messages over ASCII-art backgrounds |
-| [**Benito**](https://www.figma.com/community/plugin/1608151672259310404/benito-dynamic-bento-generato) | Figma plugin for bento grid layouts |
-| [**Claudio**](https://github.com/mattjakob/jkbClaudio) | macOS menu bar for Claude Code |
-| [**BioScan**](https://github.com/mattjakob/jkbBioScan) | iPhone microscopy imaging system |
-| [**Scott Bakes**](https://scottbakes.com) | Bakery website and ordering system |
+<div align="center">
 
-**[All projects &rarr;](https://tools.mattjakob.com)**
+<!-- REPOS:START -->
+<a href="https://github.com/mattjakob/jkbBenito"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mattjakob&repo=jkbBenito&show_owner=true&hide_border=true&bg_color=00000000&title_color=fff&text_color=aaa&icon_color=fff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mattjakob&repo=jkbBenito&show_owner=true&hide_border=true&bg_color=00000000&title_color=000&text_color=555&icon_color=000" width="49%" alt="jkbBenito" /></picture></a>&nbsp;<a href="https://github.com/mattjakob/jkbClaudio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mattjakob&repo=jkbClaudio&show_owner=true&hide_border=true&bg_color=00000000&title_color=fff&text_color=aaa&icon_color=fff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mattjakob&repo=jkbClaudio&show_owner=true&hide_border=true&bg_color=00000000&title_color=000&text_color=555&icon_color=000" width="49%" alt="jkbClaudio" /></picture></a>
+<a href="https://github.com/mattjakob/jkbFontMaker"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mattjakob&repo=jkbFontMaker&show_owner=true&hide_border=true&bg_color=00000000&title_color=fff&text_color=aaa&icon_color=fff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mattjakob&repo=jkbFontMaker&show_owner=true&hide_border=true&bg_color=00000000&title_color=000&text_color=555&icon_color=000" width="49%" alt="jkbFontMaker" /></picture></a>&nbsp;<a href="https://github.com/mattjakob/jkbBioScan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mattjakob&repo=jkbBioScan&show_owner=true&hide_border=true&bg_color=00000000&title_color=fff&text_color=aaa&icon_color=fff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mattjakob&repo=jkbBioScan&show_owner=true&hide_border=true&bg_color=00000000&title_color=000&text_color=555&icon_color=000" width="49%" alt="jkbBioScan" /></picture></a>
+<a href="https://github.com/mattjakob/jkbMIDI_01"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mattjakob&repo=jkbMIDI_01&show_owner=true&hide_border=true&bg_color=00000000&title_color=fff&text_color=aaa&icon_color=fff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mattjakob&repo=jkbMIDI_01&show_owner=true&hide_border=true&bg_color=00000000&title_color=000&text_color=555&icon_color=000" width="49%" alt="jkbMIDI_01" /></picture></a>&nbsp;<a href="https://github.com/mattjakob/jkbLibraries"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mattjakob&repo=jkbLibraries&show_owner=true&hide_border=true&bg_color=00000000&title_color=fff&text_color=aaa&icon_color=fff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mattjakob&repo=jkbLibraries&show_owner=true&hide_border=true&bg_color=00000000&title_color=000&text_color=555&icon_color=000" width="49%" alt="jkbLibraries" /></picture></a>
+<!-- REPOS:END -->
+
+</div>
 
 ---
 
 ### Writing
 
+<div align="center">
+
 [**Figma Skills for Large Product Organizations**](https://medium.com/design-bootcamp/figma-skills-for-large-product-organizations-74cf929d8446)<br/>
 <sub>Resources for mastering Figma at scale — tokens, variables, design systems, developer handoff</sub>
 
+<br/>
+
 [**'AI is great at mediocrity'**](https://medium.com/@mattjakob/ai-is-great-at-mediocrity-and-the-difference-between-designing-and-building-86587cb5ecad)<br/>
 <sub>What LLMs are actually optimizing for, and why that's a feature</sub>
+
+</div>
 
 ---
 
