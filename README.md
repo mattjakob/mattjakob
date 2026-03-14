@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=1&pause=999999&color=FFB3E1&center=false&vCenter=true&repeat=false&width=500&height=30&lines=Design+and+building+tools+%E2%80%94+mostly+with+agentic+coding">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=1&pause=999999&color=FFB3E1&center=false&vCenter=true&repeat=false&width=500&height=30&lines=Design+and+building+tools+%E2%80%94+mostly+with+agentic+coding" alt="Design and building tools — mostly with agentic coding" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=1&pause=999999&color=2FA367&center=false&vCenter=true&repeat=false&width=500&height=30&lines=Design+and+building+tools+%E2%80%94+mostly+with+agentic+coding">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=1&pause=999999&color=2FA367&center=false&vCenter=true&repeat=false&width=500&height=30&lines=Design+and+building+tools+%E2%80%94+mostly+with+agentic+coding" alt="Design and building tools — mostly with agentic coding" />
 </picture>
 
 <br/>
