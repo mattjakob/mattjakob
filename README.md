@@ -5,9 +5,9 @@
 
 <br/>
 
-[![Tools](https://img.shields.io/badge/tools.mattjakob.com-000?style=for-the-badge&logo=windowsterminal&logoColor=fff)](https://tools.mattjakob.com)&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff)](https://medium.com/@mattjakob)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/mattjakob)
+[![Tools](badges/tools.svg)](https://tools.mattjakob.com)&nbsp;
+[![Medium](badges/medium.svg)](https://medium.com/@mattjakob)&nbsp;
+[![LinkedIn](badges/linkedin.svg)](https://linkedin.com/in/mattjakob)
 
 <br/>
 
