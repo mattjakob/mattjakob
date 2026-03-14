@@ -17,17 +17,11 @@
 
 ### Writing
 
-<div align="center">
-
 [**Figma Skills for Large Product Organizations**](https://medium.com/design-bootcamp/figma-skills-for-large-product-organizations-74cf929d8446)<br/>
 <sub>Resources for mastering Figma at scale — tokens, variables, design systems, developer handoff</sub>
 
-<br/>
-
 [**'AI is great at mediocrity'**](https://medium.com/@mattjakob/ai-is-great-at-mediocrity-and-the-difference-between-designing-and-building-86587cb5ecad)<br/>
 <sub>What LLMs are actually optimizing for, and why that's a feature</sub>
-
-</div>
 
 ---
 
